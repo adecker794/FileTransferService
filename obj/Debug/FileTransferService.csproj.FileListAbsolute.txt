@@ -1,0 +1,17 @@
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\FileTransferService.exe.config
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\FileTransferService.exe
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\FileTransferService.pdb
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\Topshelf.dll
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\Topshelf.xml
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\obj\Debug\FileTransferService.csproj.CoreCompileInputs.cache
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\obj\Debug\FileTransferService.csproj.CopyComplete
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\obj\Debug\FileTransferService.exe
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\obj\Debug\FileTransferService.pdb
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aric\source\repos\FileTransferService\FileTransferService\bin\Debug\System.Security.Principal.Windows.xml
